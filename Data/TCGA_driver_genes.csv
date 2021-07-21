@@ -1,0 +1,536 @@
+﻿Gene,Tissue,Cancer,Tissue Frequency
+ATRX,Adrenal gland,Adrenocortical carcinoma,0.0444
+CTNNB1,Adrenal gland,Adrenocortical carcinoma,0.1556
+MEN1,Adrenal gland,Adrenocortical carcinoma,0.0778
+PRKAR1A,Adrenal gland,Adrenocortical carcinoma,0.0556
+TP53,Adrenal gland,Adrenocortical carcinoma,0.1778
+ARID1A,Bladder,Bladder Urothelial Carcinoma,0.2591
+ASXL2,Bladder,Bladder Urothelial Carcinoma,0.0751
+ATM,Bladder,Bladder Urothelial Carcinoma,0.1347
+CDKN1A,Bladder,Bladder Urothelial Carcinoma,0.0959
+CDKN2A,Bladder,Bladder Urothelial Carcinoma,0.0518
+CREBBP,Bladder,Bladder Urothelial Carcinoma,0.1269
+CTNNB1,Bladder,Bladder Urothelial Carcinoma,0.0311
+CUL1,Bladder,Bladder Urothelial Carcinoma,0.0466
+DIAPH2,Bladder,Bladder Urothelial Carcinoma,0.0544
+ELF3,Bladder,Bladder Urothelial Carcinoma,0.1399
+EP300,Bladder,Bladder Urothelial Carcinoma,0.1373
+ERBB2,Bladder,Bladder Urothelial Carcinoma,0.1295
+ERBB3,Bladder,Bladder Urothelial Carcinoma,0.1192
+ERCC2,Bladder,Bladder Urothelial Carcinoma,0.0933
+FAT1,Bladder,Bladder Urothelial Carcinoma,0.1166
+FBXW7,Bladder,Bladder Urothelial Carcinoma,0.0907
+FGFR3,Bladder,Bladder Urothelial Carcinoma,0.1528
+FOXA1,Bladder,Bladder Urothelial Carcinoma,0.0389
+FOXQ1,Bladder,Bladder Urothelial Carcinoma,0.0389
+GNA13,Bladder,Bladder Urothelial Carcinoma,0.0337
+HRAS,Bladder,Bladder Urothelial Carcinoma,0.0492
+KANSL1,Bladder,Bladder Urothelial Carcinoma,0.0518
+KDM6A,Bladder,Bladder Urothelial Carcinoma,0.2642
+KLF5,Bladder,Bladder Urothelial Carcinoma,0.0544
+KMT2C,Bladder,Bladder Urothelial Carcinoma,0.2021
+KMT2D,Bladder,Bladder Urothelial Carcinoma,0.2694
+KRAS,Bladder,Bladder Urothelial Carcinoma,0.0415
+NFE2L2,Bladder,Bladder Urothelial Carcinoma,0.0648
+NRAS,Bladder,Bladder Urothelial Carcinoma,0.0207
+PIK3CA,Bladder,Bladder Urothelial Carcinoma,0.2124
+PSIP1,Bladder,Bladder Urothelial Carcinoma,0.0492
+PTEN,Bladder,Bladder Urothelial Carcinoma,0.0363
+RB1,Bladder,Bladder Urothelial Carcinoma,0.1839
+RBM10,Bladder,Bladder Urothelial Carcinoma,0.044
+RHOA,Bladder,Bladder Urothelial Carcinoma,0.0492
+RHOB,Bladder,Bladder Urothelial Carcinoma,0.0596
+RXRA,Bladder,Bladder Urothelial Carcinoma,0.0674
+SF1,Bladder,Bladder Urothelial Carcinoma,0.0285
+SF3B1,Bladder,Bladder Urothelial Carcinoma,0.0544
+SPTAN1,Bladder,Bladder Urothelial Carcinoma,0.1321
+STAG2,Bladder,Bladder Urothelial Carcinoma,0.1554
+TP53,Bladder,Bladder Urothelial Carcinoma,0.4845
+TSC1,Bladder,Bladder Urothelial Carcinoma,0.0933
+TXNIP,Bladder,Bladder Urothelial Carcinoma,0.0415
+ZFP36L1,Bladder,Bladder Urothelial Carcinoma,0.0959
+AKT1,Breast,Breast invasive carcinoma,0.0321
+ARID1A,Breast,Breast invasive carcinoma,0.0334
+BRCA1,Breast,Breast invasive carcinoma,0.0308
+CASP8,Breast,Breast invasive carcinoma,0.0205
+CBFB,Breast,Breast invasive carcinoma,0.0231
+CDH1,Breast,Breast invasive carcinoma,0.1309
+CDKN1B,Breast,Breast invasive carcinoma,0.0116
+CHD4,Breast,Breast invasive carcinoma,0.0257
+CTCF,Breast,Breast invasive carcinoma,0.0257
+ERBB2,Breast,Breast invasive carcinoma,0.0257
+FBXW7,Breast,Breast invasive carcinoma,0.018
+FOXA1,Breast,Breast invasive carcinoma,0.0347
+GATA3,Breast,Breast invasive carcinoma,0.1258
+GPS2,Breast,Breast invasive carcinoma,0.0103
+KMT2C,Breast,Breast invasive carcinoma,0.095
+KRAS,Breast,Breast invasive carcinoma,0.009
+MAP2K4,Breast,Breast invasive carcinoma,0.0398
+MAP3K1,Breast,Breast invasive carcinoma,0.0834
+NCOR1,Breast,Breast invasive carcinoma,0.0475
+NF1,Breast,Breast invasive carcinoma,0.0385
+PIK3CA,Breast,Breast invasive carcinoma,0.344
+PIK3R1,Breast,Breast invasive carcinoma,0.027
+PTEN,Breast,Breast invasive carcinoma,0.0578
+PTPRD,Breast,Breast invasive carcinoma,0.0218
+RB1,Breast,Breast invasive carcinoma,0.027
+RUNX1,Breast,Breast invasive carcinoma,0.0501
+SF3B1,Breast,Breast invasive carcinoma,0.0205
+TBX3,Breast,Breast invasive carcinoma,0.0308
+TP53,Breast,Breast invasive carcinoma,0.3376
+AKT1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0255
+ARID1A,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0584
+CASP8,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0438
+EP300,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.1095
+ERBB2,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0511
+ERBB3,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0511
+FAT1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0803
+FBXW7,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.1131
+HLA-B,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0365
+KLF5,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0328
+KMT2C,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.1752
+KMT2D,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.1496
+KRAS,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.062
+LATS1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0365
+MAP3K1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0146
+MAPK1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0474
+NFE2L2,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0474
+NOTCH1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0657
+PIK3CA,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.2664
+POLRMT,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0219
+PTEN,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0912
+RB1,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0584
+SMAD4,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0365
+STK11,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0511
+TGFBR2,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0328
+TP53,Cervical,Cervical squamous cell carcinoma and endocervical adenocarcinoma,0.0693
+ARID1A,Bile duct,Cholangiocarcinoma,0.1176
+BAP1,Bile duct,Cholangiocarcinoma,0.1765
+EPHA2,Bile duct,Cholangiocarcinoma,0.1176
+IDH1,Bile duct,Cholangiocarcinoma,0.1471
+PBRM1,Bile duct,Cholangiocarcinoma,0.1765
+ACVR2A,Colorectum,Colon adenocarcinoma,0.0285
+AMER1,Colorectum,Colon adenocarcinoma,0.1171
+APC,Colorectum,Colon adenocarcinoma,0.8196
+ARID1A,Colorectum,Colon adenocarcinoma,0.0506
+BRAF,Colorectum,Colon adenocarcinoma,0.0506
+CTNNB1,Colorectum,Colon adenocarcinoma,0.038
+FBXW7,Colorectum,Colon adenocarcinoma,0.1203
+GNAS,Colorectum,Colon adenocarcinoma,0.0348
+KRAS,Colorectum,Colon adenocarcinoma,0.4778
+NRAS,Colorectum,Colon adenocarcinoma,0.0601
+PCBP1,Colorectum,Colon adenocarcinoma,0.0538
+PIK3CA,Colorectum,Colon adenocarcinoma,0.231
+PTEN,Colorectum,Colon adenocarcinoma,0.0443
+SMAD2,Colorectum,Colon adenocarcinoma,0.0348
+SMAD4,Colorectum,Colon adenocarcinoma,0.1203
+SOX9,Colorectum,Colon adenocarcinoma,0.1297
+TCF7L2,Colorectum,Colon adenocarcinoma,0.1013
+TGIF1,Colorectum,Colon adenocarcinoma,0.0411
+TP53,Colorectum,Colon adenocarcinoma,0.7278
+ZFP36L2,Colorectum,Colon adenocarcinoma,0.038
+B2M,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.2432
+BTG2,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.3514
+CARD11,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.2162
+CD70,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1081
+CD79B,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1351
+HIST1H1E,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.2703
+HLA-B,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1081
+KMT2D,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.3514
+MYD88,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1892
+PIM1,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.2703
+TMSB4X,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1892
+TNFAIP3,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1622
+TP53,Lymphoids,Lymphoid Neoplasm Diffuse Large B-cell Lymphoma,0.1351
+ARID1A,Esophagus,Esophageal carcinoma,0.0698
+CDKN2A,Esophagus,Esophageal carcinoma,0.0814
+ERBB2,Esophagus,Esophageal carcinoma,0.0465
+FBXW7,Esophagus,Esophageal carcinoma,0.0523
+KMT2D,Esophagus,Esophageal carcinoma,0.1279
+NFE2L2,Esophagus,Esophageal carcinoma,0.1105
+NOTCH1,Esophagus,Esophageal carcinoma,0.0872
+NSD1,Esophagus,Esophageal carcinoma,0.0407
+PIK3CA,Esophagus,Esophageal carcinoma,0.0988
+PTCH1,Esophagus,Esophageal carcinoma,0.0349
+SMAD4,Esophagus,Esophageal carcinoma,0.064
+TP53,Esophagus,Esophageal carcinoma,0.8779
+ZNF750,Esophagus,Esophageal carcinoma,0.0698
+ATRX,Brain,Glioblastoma multiforme,0.074
+BRAF,Brain,Glioblastoma multiforme,0.0193
+EGFR,Brain,Glioblastoma multiforme,0.2315
+GABRA6,Brain,Glioblastoma multiforme,0.045
+IDH1,Brain,Glioblastoma multiforme,0.0514
+KEL,Brain,Glioblastoma multiforme,0.0547
+LZTR1,Brain,Glioblastoma multiforme,0.0354
+NF1,Brain,Glioblastoma multiforme,0.1029
+PDGFRA,Brain,Glioblastoma multiforme,0.0418
+PIK3CA,Brain,Glioblastoma multiforme,0.1093
+PIK3R1,Brain,Glioblastoma multiforme,0.1029
+PTEN,Brain,Glioblastoma multiforme,0.3248
+RB1,Brain,Glioblastoma multiforme,0.0868
+SPTA1,Brain,Glioblastoma multiforme,0.09
+STAG2,Brain,Glioblastoma multiforme,0.0418
+TCF12,Brain,Glioblastoma multiforme,0.0161
+TP53,Brain,Glioblastoma multiforme,0.2926
+AJUBA,Head and neck,Head and Neck squamous cell carcinoma,0.0637
+ARID2,Head and neck,Head and Neck squamous cell carcinoma,0.0378
+CASP8,Head and neck,Head and Neck squamous cell carcinoma,0.1036
+CDKN2A,Head and neck,Head and Neck squamous cell carcinoma,0.2072
+CUL3,Head and neck,Head and Neck squamous cell carcinoma,0.0359
+CYLD,Head and neck,Head and Neck squamous cell carcinoma,0.0239
+EP300,Head and neck,Head and Neck squamous cell carcinoma,0.0737
+EPHA2,Head and neck,Head and Neck squamous cell carcinoma,0.0478
+FAT1,Head and neck,Head and Neck squamous cell carcinoma,0.241
+FBXW7,Head and neck,Head and Neck squamous cell carcinoma,0.0757
+FGFR3,Head and neck,Head and Neck squamous cell carcinoma,0.0179
+FLNA,Head and neck,Head and Neck squamous cell carcinoma,0.0359
+HLA-A,Head and neck,Head and Neck squamous cell carcinoma,0.0438
+HLA-B,Head and neck,Head and Neck squamous cell carcinoma,0.0398
+HRAS,Head and neck,Head and Neck squamous cell carcinoma,0.0637
+HUWE1,Head and neck,Head and Neck squamous cell carcinoma,0.1016
+KDM6A,Head and neck,Head and Neck squamous cell carcinoma,0.0378
+KEAP1,Head and neck,Head and Neck squamous cell carcinoma,0.0458
+KMT2D,Head and neck,Head and Neck squamous cell carcinoma,0.1514
+MAPK1,Head and neck,Head and Neck squamous cell carcinoma,0.0179
+MYH9,Head and neck,Head and Neck squamous cell carcinoma,0.0518
+NFE2L2,Head and neck,Head and Neck squamous cell carcinoma,0.0618
+NOTCH1,Head and neck,Head and Neck squamous cell carcinoma,0.1813
+NSD1,Head and neck,Head and Neck squamous cell carcinoma,0.1135
+PIK3CA,Head and neck,Head and Neck squamous cell carcinoma,0.1793
+PTEN,Head and neck,Head and Neck squamous cell carcinoma,0.0239
+RAC1,Head and neck,Head and Neck squamous cell carcinoma,0.0259
+RASA1,Head and neck,Head and Neck squamous cell carcinoma,0.0339
+RB1,Head and neck,Head and Neck squamous cell carcinoma,0.0339
+RHOA,Head and neck,Head and Neck squamous cell carcinoma,0.0199
+TGFBR2,Head and neck,Head and Neck squamous cell carcinoma,0.0478
+TP53,Head and neck,Head and Neck squamous cell carcinoma,0.7092
+ZNF750,Head and neck,Head and Neck squamous cell carcinoma,0.0378
+PTEN,Kidney,Kidney Chromophobe,0.0923
+TP53,Kidney,Kidney Chromophobe,0.3231
+ATM,Kidney,Kidney renal clear cell carcinoma,0.0408
+BAP1,Kidney,Kidney renal clear cell carcinoma,0.106
+KDM5C,Kidney,Kidney renal clear cell carcinoma,0.0543
+KIF1A,Kidney,Kidney renal clear cell carcinoma,0.0163
+MTOR,Kidney,Kidney renal clear cell carcinoma,0.0924
+PBRM1,Kidney,Kidney renal clear cell carcinoma,0.4212
+PIK3CA,Kidney,Kidney renal clear cell carcinoma,0.0163
+PTEN,Kidney,Kidney renal clear cell carcinoma,0.0408
+SETD2,Kidney,Kidney renal clear cell carcinoma,0.1386
+TCEB1,Kidney,Kidney renal clear cell carcinoma,0.0109
+TP53,Kidney,Kidney renal clear cell carcinoma,0.0326
+VHL,Kidney,Kidney renal clear cell carcinoma,0.462
+BAP1,Kidney,Kidney renal papillary cell carcinoma,0.0509
+CUL3,Kidney,Kidney renal papillary cell carcinoma,0.0364
+KDM6A,Kidney,Kidney renal papillary cell carcinoma,0.0327
+KRAS,Kidney,Kidney renal papillary cell carcinoma,0.0182
+MET,Kidney,Kidney renal papillary cell carcinoma,0.08
+NF2,Kidney,Kidney renal papillary cell carcinoma,0.0327
+PIK3CA,Kidney,Kidney renal papillary cell carcinoma,0.0109
+SETD2,Kidney,Kidney renal papillary cell carcinoma,0.0655
+SMARCB1,Kidney,Kidney renal papillary cell carcinoma,0.0218
+ASXL1,Blood,Acute Myeloid Leukemia,0.0432
+CEBPA,Blood,Acute Myeloid Leukemia,0.0072
+DNMT3A,Blood,Acute Myeloid Leukemia,0.1223
+EZH2,Blood,Acute Myeloid Leukemia,0
+FLT3,Blood,Acute Myeloid Leukemia,0.0504
+IDH1,Blood,Acute Myeloid Leukemia,0.036
+IDH2,Blood,Acute Myeloid Leukemia,0.0576
+KIT,Blood,Acute Myeloid Leukemia,0.0216
+KRAS,Blood,Acute Myeloid Leukemia,0.0432
+NPM1,Blood,Acute Myeloid Leukemia,0.0647
+PHF6,Blood,Acute Myeloid Leukemia,0.0216
+PTPDC1,Blood,Acute Myeloid Leukemia,0.0288
+PTPN11,Blood,Acute Myeloid Leukemia,0.0288
+RAD21,Blood,Acute Myeloid Leukemia,0
+RUNX1,Blood,Acute Myeloid Leukemia,0.0647
+SF3B1,Blood,Acute Myeloid Leukemia,0.036
+SMC1A,Blood,Acute Myeloid Leukemia,0.0288
+SMC3,Blood,Acute Myeloid Leukemia,0.0072
+TET2,Blood,Acute Myeloid Leukemia,0
+TP53,Blood,Acute Myeloid Leukemia,0.0647
+U2AF1,Blood,Acute Myeloid Leukemia,0.036
+WT1,Blood,Acute Myeloid Leukemia,0.0216
+ARID1A,Brain,Brain Lower Grade Glioma,0.0392
+ARID2,Brain,Brain Lower Grade Glioma,0.0196
+ATRX,Brain,Brain Lower Grade Glioma,0.3824
+CIC,Brain,Brain Lower Grade Glioma,0.2137
+EGFR,Brain,Brain Lower Grade Glioma,0.0686
+FUBP1,Brain,Brain Lower Grade Glioma,0.0922
+IDH1,Brain,Brain Lower Grade Glioma,0.7784
+IDH2,Brain,Brain Lower Grade Glioma,0.0412
+MAX,Brain,Brain Lower Grade Glioma,0.0078
+NF1,Brain,Brain Lower Grade Glioma,0.0588
+NIPBL,Brain,Brain Lower Grade Glioma,0.0353
+NOTCH1,Brain,Brain Lower Grade Glioma,0.0725
+NRAS,Brain,Brain Lower Grade Glioma,0.0078
+PIK3CA,Brain,Brain Lower Grade Glioma,0.0804
+PIK3R1,Brain,Brain Lower Grade Glioma,0.0451
+PLCG1,Brain,Brain Lower Grade Glioma,0.0078
+PTEN,Brain,Brain Lower Grade Glioma,0.0471
+PTPN11,Brain,Brain Lower Grade Glioma,0.0137
+SETD2,Brain,Brain Lower Grade Glioma,0.0176
+SMARCA4,Brain,Brain Lower Grade Glioma,0.049
+TCF12,Brain,Brain Lower Grade Glioma,0.0275
+TP53,Brain,Brain Lower Grade Glioma,0.4863
+ZBTB20,Brain,Brain Lower Grade Glioma,0.0412
+ZCCHC12,Brain,Brain Lower Grade Glioma,0.0157
+ACVR2A,Liver,Liver hepatocellular carcinoma,0.0311
+ALB,Liver,Liver hepatocellular carcinoma,0.1356
+APOB,Liver,Liver hepatocellular carcinoma,0.1017
+ARID1A,Liver,Liver hepatocellular carcinoma,0.0904
+ARID2,Liver,Liver hepatocellular carcinoma,0.0565
+AXIN1,Liver,Liver hepatocellular carcinoma,0.0763
+BAP1,Liver,Liver hepatocellular carcinoma,0.0593
+BRD7,Liver,Liver hepatocellular carcinoma,0.0311
+CDKN1A,Liver,Liver hepatocellular carcinoma,0.0254
+CDKN2A,Liver,Liver hepatocellular carcinoma,0.0282
+CREB3L3,Liver,Liver hepatocellular carcinoma,0.0169
+CTNNB1,Liver,Liver hepatocellular carcinoma,0.2627
+DHX9,Liver,Liver hepatocellular carcinoma,0.0311
+EEF1A1,Liver,Liver hepatocellular carcinoma,0.0282
+GNAS,Liver,Liver hepatocellular carcinoma,0.0282
+HIST1H1E,Liver,Liver hepatocellular carcinoma,0.0141
+IDH1,Liver,Liver hepatocellular carcinoma,0.0198
+IL6ST,Liver,Liver hepatocellular carcinoma,0.0339
+KEAP1,Liver,Liver hepatocellular carcinoma,0.0508
+KRAS,Liver,Liver hepatocellular carcinoma,0.0169
+LZTR1,Liver,Liver hepatocellular carcinoma,0.0395
+NFE2L2,Liver,Liver hepatocellular carcinoma,0.0339
+NRAS,Liver,Liver hepatocellular carcinoma,0.0141
+NUP133,Liver,Liver hepatocellular carcinoma,0.0367
+PIK3CA,Liver,Liver hepatocellular carcinoma,0.0339
+RB1,Liver,Liver hepatocellular carcinoma,0.0508
+RPS6KA3,Liver,Liver hepatocellular carcinoma,0.0452
+SMARCA4,Liver,Liver hepatocellular carcinoma,0.0282
+TP53,Liver,Liver hepatocellular carcinoma,0.3136
+TSC2,Liver,Liver hepatocellular carcinoma,0.0339
+WHSC1,Liver,Liver hepatocellular carcinoma,0.0254
+XPO1,Liver,Liver hepatocellular carcinoma,0.0169
+ARID1A,Lung,Lung adenocarcinoma,0.0464
+ATM,Lung,Lung adenocarcinoma,0.0789
+BRAF,Lung,Lung adenocarcinoma,0.0719
+CDKN2A,Lung,Lung adenocarcinoma,0.0371
+CTNNB1,Lung,Lung adenocarcinoma,0.0394
+EGFR,Lung,Lung adenocarcinoma,0.1392
+KEAP1,Lung,Lung adenocarcinoma,0.1717
+KRAS,Lung,Lung adenocarcinoma,0.3155
+MET,Lung,Lung adenocarcinoma,0.0441
+MGA,Lung,Lung adenocarcinoma,0.0696
+NF1,Lung,Lung adenocarcinoma,0.1206
+PIK3CA,Lung,Lung adenocarcinoma,0.0418
+RB1,Lung,Lung adenocarcinoma,0.0464
+RBM10,Lung,Lung adenocarcinoma,0.0696
+RIT1,Lung,Lung adenocarcinoma,0.0209
+SETD2,Lung,Lung adenocarcinoma,0.0673
+SMARCA4,Lung,Lung adenocarcinoma,0.0719
+STK11,Lung,Lung adenocarcinoma,0.1624
+TP53,Lung,Lung adenocarcinoma,0.4687
+U2AF1,Lung,Lung adenocarcinoma,0.0325
+ARHGAP35,Lung,Lung squamous cell carcinoma,0.0603
+ARID1A,Lung,Lung squamous cell carcinoma,0.0733
+CDKN2A,Lung,Lung squamous cell carcinoma,0.1616
+CUL3,Lung,Lung squamous cell carcinoma,0.056
+EP300,Lung,Lung squamous cell carcinoma,0.0366
+FAT1,Lung,Lung squamous cell carcinoma,0.1552
+FBXW7,Lung,Lung squamous cell carcinoma,0.056
+FGFR2,Lung,Lung squamous cell carcinoma,0.0302
+HLA-A,Lung,Lung squamous cell carcinoma,0.0129
+HRAS,Lung,Lung squamous cell carcinoma,0.0172
+KDM6A,Lung,Lung squamous cell carcinoma,0.0517
+KEAP1,Lung,Lung squamous cell carcinoma,0.1099
+KLF5,Lung,Lung squamous cell carcinoma,0.0259
+KMT2D,Lung,Lung squamous cell carcinoma,0.2241
+NF1,Lung,Lung squamous cell carcinoma,0.1142
+NFE2L2,Lung,Lung squamous cell carcinoma,0.153
+NOTCH1,Lung,Lung squamous cell carcinoma,0.0884
+PIK3CA,Lung,Lung squamous cell carcinoma,0.125
+PTEN,Lung,Lung squamous cell carcinoma,0.1121
+RASA1,Lung,Lung squamous cell carcinoma,0.0647
+RB1,Lung,Lung squamous cell carcinoma,0.069
+TP53,Lung,Lung squamous cell carcinoma,0.8685
+BAP1,Lung,Mesothelioma,0.2222
+LATS2,Lung,Mesothelioma,0.0988
+NF2,Lung,Mesothelioma,0.2346
+SETD2,Lung,Mesothelioma,0.0988
+TP53,Lung,Mesothelioma,0.1728
+BRCA1,Ovarian,Ovarian serous cystadenocarcinoma,0.0441
+CDK12,Ovarian,Ovarian serous cystadenocarcinoma,0.0466
+KRAS,Ovarian,Ovarian serous cystadenocarcinoma,0.0147
+NF1,Ovarian,Ovarian serous cystadenocarcinoma,0.076
+NRAS,Ovarian,Ovarian serous cystadenocarcinoma,0.0123
+RB1,Ovarian,Ovarian serous cystadenocarcinoma,0.0368
+TP53,Ovarian,Ovarian serous cystadenocarcinoma,0.9118
+ZNF133,Ovarian,Ovarian serous cystadenocarcinoma,0.0294
+ARID1A,Pancreatic,Pancreatic adenocarcinoma,0.0516
+CDKN2A,Pancreatic,Pancreatic adenocarcinoma,0.2258
+EEF2,Pancreatic,Pancreatic adenocarcinoma,0.0194
+GNAS,Pancreatic,Pancreatic adenocarcinoma,0.0387
+KDM6A,Pancreatic,Pancreatic adenocarcinoma,0.0452
+KRAS,Pancreatic,Pancreatic adenocarcinoma,0.7355
+RNF43,Pancreatic,Pancreatic adenocarcinoma,0.0581
+SMAD4,Pancreatic,Pancreatic adenocarcinoma,0.2323
+TGFBR2,Pancreatic,Pancreatic adenocarcinoma,0.0452
+TP53,Pancreatic,Pancreatic adenocarcinoma,0.6839
+U2AF1,Pancreatic,Pancreatic adenocarcinoma,0.0194
+CSDE1,Adrenal gland,Pheochromocytoma and Paraganglioma,0.0223
+EPAS1,Adrenal gland,Pheochromocytoma and Paraganglioma,0.0447
+HRAS,Adrenal gland,Pheochromocytoma and Paraganglioma,0.1006
+NF1,Adrenal gland,Pheochromocytoma and Paraganglioma,0.0894
+RET,Adrenal gland,Pheochromocytoma and Paraganglioma,0.0335
+AKT1,Prostate,Prostate adenocarcinoma,0.0063
+APC,Prostate,Prostate adenocarcinoma,0.021
+BRAF,Prostate,Prostate adenocarcinoma,0.0126
+CTNNB1,Prostate,Prostate adenocarcinoma,0.0189
+FOXA1,Prostate,Prostate adenocarcinoma,0.065
+HRAS,Prostate,Prostate adenocarcinoma,0.0084
+IDH1,Prostate,Prostate adenocarcinoma,0.0084
+KDM6A,Prostate,Prostate adenocarcinoma,0.0231
+KMT2D,Prostate,Prostate adenocarcinoma,0.0566
+MED12,Prostate,Prostate adenocarcinoma,0.0147
+PIK3CA,Prostate,Prostate adenocarcinoma,0.0252
+PTEN,Prostate,Prostate adenocarcinoma,0.0377
+SPOP,Prostate,Prostate adenocarcinoma,0.1153
+TP53,Prostate,Prostate adenocarcinoma,0.1195
+ZMYM3,Prostate,Prostate adenocarcinoma,0.0168
+ATRX,Connective tissue,Sarcoma,0.1667
+RB1,Connective tissue,Sarcoma,0.1029
+TP53,Connective tissue,Sarcoma,0.3431
+ARID2,Skin,Skin Cutaneous Melanoma,0.1209
+BRAF,Skin,Skin Cutaneous Melanoma,0.5213
+BRD7,Skin,Skin Cutaneous Melanoma,0.0284
+CDK4,Skin,Skin Cutaneous Melanoma,0.0261
+CDKN2A,Skin,Skin Cutaneous Melanoma,0.1137
+COL5A1,Skin,Skin Cutaneous Melanoma,0.1777
+CTNNB1,Skin,Skin Cutaneous Melanoma,0.0521
+DACH1,Skin,Skin Cutaneous Melanoma,0.0853
+DDX3X,Skin,Skin Cutaneous Melanoma,0.0545
+GNA11,Skin,Skin Cutaneous Melanoma,0.019
+HRAS,Skin,Skin Cutaneous Melanoma,0.0166
+IDH1,Skin,Skin Cutaneous Melanoma,0.0569
+KIT,Skin,Skin Cutaneous Melanoma,0.0427
+KRAS,Skin,Skin Cutaneous Melanoma,0.0213
+MAP2K1,Skin,Skin Cutaneous Melanoma,0.0616
+MECOM,Skin,Skin Cutaneous Melanoma,0.1825
+NF1,Skin,Skin Cutaneous Melanoma,0.128
+NRAS,Skin,Skin Cutaneous Melanoma,0.2773
+PPP6C,Skin,Skin Cutaneous Melanoma,0.0711
+PTEN,Skin,Skin Cutaneous Melanoma,0.0972
+RAC1,Skin,Skin Cutaneous Melanoma,0.0498
+RB1,Skin,Skin Cutaneous Melanoma,0.0355
+RQCD1,Skin,Skin Cutaneous Melanoma,0.0308
+TP53,Skin,Skin Cutaneous Melanoma,0.1137
+APC,Stomach,Stomach adenocarcinoma,0.0896
+ARID1A,Stomach,Stomach adenocarcinoma,0.1541
+ARID2,Stomach,Stomach adenocarcinoma,0.0532
+BCOR,Stomach,Stomach adenocarcinoma,0.056
+CASP8,Stomach,Stomach adenocarcinoma,0.0224
+CDH1,Stomach,Stomach adenocarcinoma,0.0896
+CDKN2A,Stomach,Stomach adenocarcinoma,0.0392
+CNBD1,Stomach,Stomach adenocarcinoma,0.042
+CTNNB1,Stomach,Stomach adenocarcinoma,0.0476
+DMD,Stomach,Stomach adenocarcinoma,0.1064
+ERBB2,Stomach,Stomach adenocarcinoma,0.042
+ERBB4,Stomach,Stomach adenocarcinoma,0.098
+FAM46D,Stomach,Stomach adenocarcinoma,0.0196
+FBXW7,Stomach,Stomach adenocarcinoma,0.0308
+KRAS,Stomach,Stomach adenocarcinoma,0.07
+MUC6,Stomach,Stomach adenocarcinoma,0.0672
+PIK3CA,Stomach,Stomach adenocarcinoma,0.1064
+PTEN,Stomach,Stomach adenocarcinoma,0.042
+RASA1,Stomach,Stomach adenocarcinoma,0.0252
+RHOA,Stomach,Stomach adenocarcinoma,0.056
+RNF43,Stomach,Stomach adenocarcinoma,0.0336
+SMAD2,Stomach,Stomach adenocarcinoma,0.014
+SMAD4,Stomach,Stomach adenocarcinoma,0.0784
+TP53,Stomach,Stomach adenocarcinoma,0.5238
+KIT,Testes,Testicular Germ Cell Tumors,0.1448
+KRAS,Testes,Testicular Germ Cell Tumors,0.0828
+NRAS,Testes,Testicular Germ Cell Tumors,0.0345
+PIK3CA,Testes,Testicular Germ Cell Tumors,0.0207
+PTMA,Testes,Testicular Germ Cell Tumors,0.0552
+AKT1,Thyroid,Thyroid carcinoma,0.0102
+BRAF,Thyroid,Thyroid carcinoma,0.5915
+DNMT3A,Thyroid,Thyroid carcinoma,0.0081
+EIF1AX,Thyroid,Thyroid carcinoma,0.0142
+HRAS,Thyroid,Thyroid carcinoma,0.0346
+KRAS,Thyroid,Thyroid carcinoma,0.0081
+NRAS,Thyroid,Thyroid carcinoma,0.0793
+NUP93,Thyroid,Thyroid carcinoma,0.0081
+PPM1D,Thyroid,Thyroid carcinoma,0.0081
+ACVR1,Uterus,Uterine Corpus Endometrial Carcinoma,0.053
+AKT1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0354
+ARHGAP35,Uterus,Uterine Corpus Endometrial Carcinoma,0.1389
+ARID1A,Uterus,Uterine Corpus Endometrial Carcinoma,0.3965
+ARID5B,Uterus,Uterine Corpus Endometrial Carcinoma,0.1212
+ATF7IP,Uterus,Uterine Corpus Endometrial Carcinoma,0.048
+ATM,Uterus,Uterine Corpus Endometrial Carcinoma,0.1035
+ATR,Uterus,Uterine Corpus Endometrial Carcinoma,0.048
+BCOR,Uterus,Uterine Corpus Endometrial Carcinoma,0.1111
+CCND1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0707
+CHD3,Uterus,Uterine Corpus Endometrial Carcinoma,0.1086
+CHD4,Uterus,Uterine Corpus Endometrial Carcinoma,0.1692
+CTCF,Uterus,Uterine Corpus Endometrial Carcinoma,0.1843
+CTNNB1,Uterus,Uterine Corpus Endometrial Carcinoma,0.2146
+CTNND1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0631
+DICER1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0631
+EP300,Uterus,Uterine Corpus Endometrial Carcinoma,0.0909
+ERBB2,Uterus,Uterine Corpus Endometrial Carcinoma,0.0455
+ERBB3,Uterus,Uterine Corpus Endometrial Carcinoma,0.0783
+FAT1,Uterus,Uterine Corpus Endometrial Carcinoma,0.1515
+FBXW7,Uterus,Uterine Corpus Endometrial Carcinoma,0.1641
+FGFR2,Uterus,Uterine Corpus Endometrial Carcinoma,0.1212
+FOXA2,Uterus,Uterine Corpus Endometrial Carcinoma,0.0556
+INPPL1,Uterus,Uterine Corpus Endometrial Carcinoma,0.1035
+KANSL1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0934
+KMT2B,Uterus,Uterine Corpus Endometrial Carcinoma,0.1768
+KMT2C,Uterus,Uterine Corpus Endometrial Carcinoma,0.1616
+KRAS,Uterus,Uterine Corpus Endometrial Carcinoma,0.2096
+MAP3K1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0707
+MAX,Uterus,Uterine Corpus Endometrial Carcinoma,0.0455
+MSH6,Uterus,Uterine Corpus Endometrial Carcinoma,0.0429
+MYCN,Uterus,Uterine Corpus Endometrial Carcinoma,0.0328
+NFE2L2,Uterus,Uterine Corpus Endometrial Carcinoma,0.0783
+NRAS,Uterus,Uterine Corpus Endometrial Carcinoma,0.0328
+PBRM1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0581
+PDS5B,Uterus,Uterine Corpus Endometrial Carcinoma,0.0631
+PIK3CA,Uterus,Uterine Corpus Endometrial Carcinoma,0.4571
+PIK3R1,Uterus,Uterine Corpus Endometrial Carcinoma,0.298
+PIK3R2,Uterus,Uterine Corpus Endometrial Carcinoma,0.053
+PPP2R1A,Uterus,Uterine Corpus Endometrial Carcinoma,0.1641
+PTEN,Uterus,Uterine Corpus Endometrial Carcinoma,0.5985
+RB1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0682
+RPL22,Uterus,Uterine Corpus Endometrial Carcinoma,0.101
+RRAS2,Uterus,Uterine Corpus Endometrial Carcinoma,0.0152
+SCAF4,Uterus,Uterine Corpus Endometrial Carcinoma,0.0884
+SIN3A,Uterus,Uterine Corpus Endometrial Carcinoma,0.0808
+SMC1A,Uterus,Uterine Corpus Endometrial Carcinoma,0.053
+SOS1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0429
+SOX17,Uterus,Uterine Corpus Endometrial Carcinoma,0.048
+SPOP,Uterus,Uterine Corpus Endometrial Carcinoma,0.0934
+TAF1,Uterus,Uterine Corpus Endometrial Carcinoma,0.1212
+TP53,Uterus,Uterine Corpus Endometrial Carcinoma,0.4091
+U2AF1,Uterus,Uterine Corpus Endometrial Carcinoma,0.0278
+ZFHX3,Uterus,Uterine Corpus Endometrial Carcinoma,0.1995
+ZMYM2,Uterus,Uterine Corpus Endometrial Carcinoma,0.0657
+ARID1A,Uterus,Uterine Carcinosarcoma,0.0909
+BCL2L11,Uterus,Uterine Carcinosarcoma,0.0364
+CHD4,Uterus,Uterine Carcinosarcoma,0.1455
+FBXW7,Uterus,Uterine Carcinosarcoma,0.3818
+KRAS,Uterus,Uterine Carcinosarcoma,0.1273
+MAP3K4,Uterus,Uterine Carcinosarcoma,0.0545
+PIK3CA,Uterus,Uterine Carcinosarcoma,0.3455
+PIK3R1,Uterus,Uterine Carcinosarcoma,0.1091
+PPP2R1A,Uterus,Uterine Carcinosarcoma,0.2727
+PTEN,Uterus,Uterine Carcinosarcoma,0.1636
+RB1,Uterus,Uterine Carcinosarcoma,0.0727
+RFC1,Uterus,Uterine Carcinosarcoma,0.0364
+TP53,Uterus,Uterine Carcinosarcoma,0.9273
+ZBTB7B,Uterus,Uterine Carcinosarcoma,0.1091
+BAP1,Eye,Uveal Melanoma,0.1625
+CYSLTR2,Eye,Uveal Melanoma,0.0375
+EIF1AX,Eye,Uveal Melanoma,0.125
+GNA11,Eye,Uveal Melanoma,0.45
+GNAQ,Eye,Uveal Melanoma,0.5
+PLCB4,Eye,Uveal Melanoma,0.025
+SF3B1,Eye,Uveal Melanoma,0.225
+SRSF2,Eye,Uveal Melanoma,0.0375
